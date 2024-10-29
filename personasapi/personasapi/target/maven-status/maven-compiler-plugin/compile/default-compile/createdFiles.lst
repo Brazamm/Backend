@@ -1,0 +1,10 @@
+co\edu\personasapi\domain\TipoPersonaService.class
+co\edu\personasapi\PersonasapiApplication.class
+co\edu\personasapi\domain\TipoPersonaRepository.class
+co\edu\personasapi\domain\TipoPersona.class
+co\edu\personasapi\domain\TipoPersonaServiceImp.class
+co\edu\personasapi\infraestructura\PersonaRest.class
+co\edu\personasapi\domain\PersonaRepository.class
+co\edu\personasapi\domain\PersonaService.class
+co\edu\personasapi\domain\Persona.class
+co\edu\personasapi\domain\PersonaServiceImp.class
